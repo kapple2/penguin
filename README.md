@@ -47,6 +47,9 @@ DOS 3.3 디스크를 사용해서 위의 화일들을 저장했습니다: [pengu
 
 
 간단한 플레이 영상입니다:
+
+https://github.com/user-attachments/assets/ce17bc3a-d457-49e9-bfd7-a75a31539e10
+
 [컴학 팽귄 게임.mp4](<컴학 팽귄 게임.mp4>)
 
 
